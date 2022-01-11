@@ -1,0 +1,5 @@
+awesome file
+gonna commit to github remote repository
+wont do this normally
+trying to simulate a situation where remote repository history is ahead of local repository history
+plain enlgish remote has addutuinal commit that local doesnt have.
